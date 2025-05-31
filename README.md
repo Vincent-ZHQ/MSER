@@ -1,5 +1,5 @@
 # MSER
-Code for [Language Models Meet Contrastive Learning: Zero-Shot Emotion Recognition Across Languages](https://arxiv.org/abs/2503.21806) (ICME 2025)
+Code for [Language Models Meet Contrastive Learning: Zero-Shot Emotion Recognition Across Languages](https://arxiv.org/abs/2503.21806) (ICME 2025 Oral)
 
 (Busy now, will be finished in the following weeks)
 
